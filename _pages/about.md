@@ -23,6 +23,7 @@ My work combines behavioral experiments with multimodal approaches, including ey
 
 Methodologically, I use computational modeling (e.g., drift-diffusion models, reinforcement learning) alongside statistical and machine learning approaches to analyze behavioral and physiological data.
 
+---
 
 ## 🔥 News
 - *March 2026* | **Prague, Czech Republic (INSAR 2026)**  
