@@ -49,9 +49,3 @@ Nie, Z., Kong, L., Pan, X., & Wang, C.* (*In preparation*)
 
 </div>
 </div>
-
----
-
-## 🎓 Education
-- **M.S. in Developmental Psychopathology**, East China Normal University (Expected June 2026)  
-- **B.S. in Psychology**, Nankai University (2019–2023)
