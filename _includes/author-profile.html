@@ -213,6 +213,13 @@
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
+      {% if author.cv %}
+        <li>
+          <a href="{{ author.cv }}" download>
+            <i class="fas fa-fw fa-file-pdf"></i> CV
+          </a>
+        </li>
+      {% endif %}
     </div>
   </div>
 </div>
