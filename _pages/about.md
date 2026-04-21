@@ -59,6 +59,7 @@ I aim to integrate behavioral, neural, and computational approaches to better un
 </p>
 <span class="anchor" id="-publications"></span>
 <div id="pubs" class="collapsible">
+  
 ## 📝 Publications
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -118,6 +119,7 @@ Nie, Z., Kong, L., Pan, X., & Wang, C.* (*In preparation*)
 </p>
 <span class="anchor" id="-publications"></span>
 <div id="pubs" class="collapsible">
+  
 ## 🎓 Education
 - **M.S. in Developmental Psychopathology**, East China Normal University (Expected June 2026)  
 - Supervisor: Yongning Song
