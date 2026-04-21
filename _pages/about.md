@@ -51,7 +51,14 @@ Methodologically, I use computational modeling (e.g., drift-diffusion models, re
 I aim to integrate behavioral, neural, and computational approaches to better understand individual differences in social cognition.
 
 
+<p>
+  <a href="javascript:void(0);" onclick="toggleSection('pubs')" 
+     style="padding:8px 16px; background:#3b82f6; color:white; border-radius:6px; text-decoration:none;">
+    📝 Publications
+  </a>
+</p>
 <span class="anchor" id="-publications"></span>
+<div id="pubs" class="collapsible">
 ## 📝 Publications
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -64,6 +71,7 @@ Song, Y.*, Nie, Z., & Shan, J. (2024). *Autism Research, 17(1), 109–124*
 [Paper](https://doi.org/10.1002/aur.3051)
 
 - Examines how theory of mind and executive function contribute to irony comprehension in autistic children.
+- - **Role:** Co-led the study; led data analysis and manuscript writing; coordinated revisions and publication process.
 
 </div>
 </div>
@@ -79,6 +87,7 @@ Chen, Z., Nie, Z., Zhao, Y., & Song, Y.* (2026). *Psychonomic Bulletin & Review*
 [Paper](https://doi.org/10.3758/s13423-026-02882-y)
 
 - A meta-analysis examining gaze cueing effects across the autism trait continuum.
+- **Role:** Contributed to study screening, data coding, and meta-analytic analysis; supported interpretation and manuscript preparation.
 
 </div>
 </div>
@@ -93,12 +102,22 @@ Chen, Z., Nie, Z., Zhao, Y., & Song, Y.* (2026). *Psychonomic Bulletin & Review*
 Nie, Z., Kong, L., Pan, X., & Wang, C.* (*In preparation*)
 
 - Uses machine learning on eye-tracking data to improve classification and prediction of ASD-related social attention patterns.
+- **Role:** Developed machine learning pipeline; designed and conducted data analysis; led the manustript writing.
 
 </div>
 </div>
 
+</div>
 
+
+<p>
+  <a href="javascript:void(0);" onclick="toggleSection('pubs')" 
+     style="padding:8px 16px; background:#3b82f6; color:white; border-radius:6px; text-decoration:none;">
+    📝 Publications
+  </a>
+</p>
 <span class="anchor" id="-publications"></span>
+<div id="pubs" class="collapsible">
 ## 🎓 Education
 - **M.S. in Developmental Psychopathology**, East China Normal University (Expected June 2026)  
 - Supervisor: Yongning Song
@@ -106,3 +125,32 @@ Nie, Z., Kong, L., Pan, X., & Wang, C.* (*In preparation*)
 - **B.S. in Psychology**, Nankai University (2019–2023)
 - Supervisor: Chongying Wang
 - Thesis: Emotion Recognition and Attentional Bias in High-AQ Populations
+</div>
+
+<style>
+.collapsible {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.6s ease;
+}
+
+.collapsible.open {
+  max-height: 5000px; /* 足够大即可 */
+}
+</style>
+<script>
+function toggleSection(id) {
+  var el = document.getElementById(id);
+
+  if (el.classList.contains("open")) {
+    el.classList.remove("open");
+  } else {
+    el.classList.add("open");
+
+    // 等动画开始后滚动
+    setTimeout(function() {
+      el.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 200);
+  }
+}
+</script>
