@@ -52,8 +52,6 @@ I aim to integrate behavioral, neural, and computational approaches to better un
 
 
 <span class="anchor" id="-publications"></span>
-
-
 ## 📝 Publications
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -98,3 +96,13 @@ Nie, Z., Kong, L., Pan, X., & Wang, C.* (*In preparation*)
 
 </div>
 </div>
+
+
+<span class="anchor" id="-publications"></span>
+## 🎓 Education
+- **M.S. in Developmental Psychopathology**, East China Normal University (Expected June 2026)  
+- Supervisor: Yongning Song
+- Thesis: Understanding Irony in Autistic Children: The Role of Theory of Mind and Language Processing and Mult
+- **B.S. in Psychology**, Nankai University (2019–2023)
+- Supervisor: Chongying Wang
+- Thesis: 
