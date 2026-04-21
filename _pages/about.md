@@ -24,7 +24,7 @@ My work combines behavioral experiments with multimodal approaches, including ey
 Methodologically, I use computational modeling (e.g., drift-diffusion models, reinforcement learning) alongside statistical and machine learning approaches to analyze behavioral and physiological data.
 
 ---
-## 🔍 Looking for a PhD position in Developmental Psychopathology & Social Cognition
+### 🔍 Looking for a PhD position in Developmental Psychopathology & Social Cognition
 
 ---
 
