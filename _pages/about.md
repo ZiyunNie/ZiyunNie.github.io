@@ -51,15 +51,9 @@ Methodologically, I use computational modeling (e.g., drift-diffusion models, re
 I aim to integrate behavioral, neural, and computational approaches to better understand individual differences in social cognition.
 
 
-<p>
-  <a href="javascript:void(0);" onclick="toggleSection('pubs')" 
-     style="padding:8px 16px; background:#3b82f6; color:white; border-radius:6px; text-decoration:none;">
-    📝 Publications
-  </a>
-</p>
+---
+
 <span class="anchor" id="-publications"></span>
-<div id="pubs" class="collapsible">
-  
 ## 📝 Publications
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -108,18 +102,8 @@ Nie, Z., Kong, L., Pan, X., & Wang, C.* (*In preparation*)
 </div>
 </div>
 
-</div>
 
-
-<p>
-  <a href="javascript:void(0);" onclick="toggleSection('pubs')" 
-     style="padding:8px 16px; background:#3b82f6; color:white; border-radius:6px; text-decoration:none;">
-    📝 Publications
-  </a>
-</p>
 <span class="anchor" id="-publications"></span>
-<div id="pubs" class="collapsible">
-  
 ## 🎓 Education
 - **M.S. in Developmental Psychopathology**, East China Normal University (Expected June 2026)  
 - Supervisor: Yongning Song
@@ -127,32 +111,3 @@ Nie, Z., Kong, L., Pan, X., & Wang, C.* (*In preparation*)
 - **B.S. in Psychology**, Nankai University (2019–2023)
 - Supervisor: Chongying Wang
 - Thesis: Emotion Recognition and Attentional Bias in High-AQ Populations
-</div>
-
-<style>
-.collapsible {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.6s ease;
-}
-
-.collapsible.open {
-  max-height: 5000px; /* 足够大即可 */
-}
-</style>
-<script>
-function toggleSection(id) {
-  var el = document.getElementById(id);
-
-  if (el.classList.contains("open")) {
-    el.classList.remove("open");
-  } else {
-    el.classList.add("open");
-
-    // 等动画开始后滚动
-    setTimeout(function() {
-      el.scrollIntoView({ behavior: "smooth", block: "start" });
-    }, 200);
-  }
-}
-</script>
