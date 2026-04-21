@@ -49,3 +49,6 @@ Methodologically, I use computational modeling (e.g., drift-diffusion models, re
 
 ## 🧠 Research Perspective
 I aim to integrate behavioral, neural, and computational approaches to better understand individual differences in social cognition.
+
+
+<span class="anchor" id="-publications"></span>
