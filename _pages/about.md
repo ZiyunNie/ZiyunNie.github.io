@@ -28,6 +28,13 @@ Methodologically, I use computational modeling (e.g., drift-diffusion models, re
 
 ---
 
+## 🔬 Research Interests 
+- Social Cognition  
+- Developmental Psychopathology  
+- Computational Psychiatry
+
+---
+
 ## 🔥 News
 - *March 2026* | **Prague, Czech Republic (INSAR 2026)**  
   🏆 Poster *"Adaptive Learning Challenges in Autism: Reduced Evidence Accumulation and Prior Belief Updating in Probabilistic Reversal Reward Learning"* was selected as a **Top-Rated Abstract**.  
@@ -40,16 +47,8 @@ Methodologically, I use computational modeling (e.g., drift-diffusion models, re
 
 ---
 
-## 🔬 Research Themes 
-- Social Cognition  
-- Developmental Psychopathology  
-- Computational Psychiatry
-
----
-
 ## 🧠 Research Perspective
 I aim to integrate behavioral, neural, and computational approaches to better understand individual differences in social cognition.
-
 
 ---
 
