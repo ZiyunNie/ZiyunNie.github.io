@@ -117,7 +117,7 @@ Nie, Z., Kong, L., Pan, X., & Wang, C.* (*In preparation*)
 ---
 <span class="anchor" id="-publications"></span>
 ## 📃 Projects
-## Current Projects
+### Current Projects
 
 ### 🧠 Adaptive Learning in Autism (Computational Modeling)
 
@@ -149,7 +149,7 @@ This project examines brain-to-brain synchrony during adult–child interaction 
 
 ---
 
-## Previous Work
+### Previous Work
 
 ### 😐 Emotion Processing and Attentional Bias in High-AQ Individuals
 
