@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 permalink: /honors/
 title: "Honors & Awards"
 author_profile: true
