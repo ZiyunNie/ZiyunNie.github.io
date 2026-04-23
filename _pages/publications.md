@@ -9,7 +9,7 @@ author_profile: true
 ## 📝 Publications
 <div class='paper-box'>
 <div class='paper-box-image'>
-  <img src='images/irony_paper.png' alt="paper" width="100%">
+  <img src='/images/irony_paper.png' alt="paper" width="100%">
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -25,7 +25,7 @@ Song, Y.*, Nie, Z., & Shan, J. (2024). *Autism Research, 17(1), 109–124*
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-  <img src='images/meta_analysis.png' alt="paper" width="100%">
+  <img src='/images/meta_analysis.png' alt="paper" width="100%">
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,7 +41,7 @@ Chen, Z., Nie, Z., Zhao, Y., & Song, Y.* (2026). *Psychonomic Bulletin & Review*
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-  <img src='images/eyetracking_ml.png' alt="paper" width="100%">
+  <img src='/images/eyetracking_ml.png' alt="paper" width="100%">
 </div>
 <div class='paper-box-text' markdown="1">
 
