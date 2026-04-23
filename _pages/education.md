@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 permalink: /education/
 title: "Education"
 author_profile: true
