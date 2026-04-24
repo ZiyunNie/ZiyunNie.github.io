@@ -11,7 +11,7 @@ author_profile: true
 <div class='paper-box-image'>
   <img src='/images/irony_paper.png' alt="paper">
 </div>
-<div class='paper-box-text'>
+<div class='paper-box-text' markdown="1">
 
 **Comprehension of irony in autistic children: The role of theory of mind and executive function**  
 Song, Y.*, Nie, Z., & Shan, J. (2024). *Autism Research, 17(1), 109–124*  
@@ -27,7 +27,7 @@ Song, Y.*, Nie, Z., & Shan, J. (2024). *Autism Research, 17(1), 109–124*
 <div class='paper-box-image'>
   <img src='/images/meta_analysis.png' alt="paper">
 </div>
-<div class='paper-box-text'>
+<div class='paper-box-text' markdown="1">
 
 **A meta-analytic review of gaze cueing across the autism trait continuum**  
 Chen, Z., Nie, Z., Zhao, Y., & Song, Y.* (2026). *Psychonomic Bulletin & Review*  
@@ -43,7 +43,7 @@ Chen, Z., Nie, Z., Zhao, Y., & Song, Y.* (2026). *Psychonomic Bulletin & Review*
 <div class='paper-box-image'>
   <img src='/images/eyetracking_ml.png' alt="paper">
 </div>
-<div class='paper-box-text'>
+<div class='paper-box-text' markdown="1">
 
 **Multi-Task Paradigms in Eye-Tracking: Enhancing Diagnostic Social Attention Pattern Detection in Autism Spectrum Disorder via Machine Learning**  
 Nie, Z., Kong, L., Pan, X., & Wang, C.* (*In preparation*)
