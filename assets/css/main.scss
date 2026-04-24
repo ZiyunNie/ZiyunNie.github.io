@@ -68,6 +68,23 @@
     }
 }
 
+.paper-download {
+    display: inline-block;
+    margin-left: 0.5rem;
+    padding: 0.15rem 0.6rem;
+    border: 1px solid #1f6feb;
+    border-radius: 4px;
+    color: #1f6feb;
+    font-size: 0.85em;
+    text-decoration: none;
+    transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.paper-download:hover {
+    background-color: #1f6feb;
+    color: #fff;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
