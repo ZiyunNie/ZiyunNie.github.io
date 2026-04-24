@@ -16,6 +16,7 @@ author_profile: true
 **Comprehension of irony in autistic children: The role of theory of mind and executive function**  
 Song, Y.*, Nie, Z., & Shan, J. (2024). *Autism Research*  
 [Paper](https://doi.org/10.1002/aur.3051)
+<a class="paper-download" href="/files/irony1.pdf" target="_blank" rel="noopener">Download PDF</a>
 
 - Examines how theory of mind and executive function contribute to irony comprehension in autistic children.
 - **Role:** Co-led the study; led data analysis and manuscript writing; coordinated revisions and publication process.
