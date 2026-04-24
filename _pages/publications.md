@@ -31,8 +31,9 @@ Song, Y.*, Nie, Z., & Shan, J. (2024). *Autism Research*
 <div class='paper-box-text' markdown="1">
 
 **A meta-analytic review of gaze cueing across the autism trait continuum**  
-Chen, Z., Nie, Z., Zhao, Y., & Song, Y.* (2026). *Psychonomic Bulletin & Review*  
+Chen, Z., Nie, Z., Zhao, Y., & Song, Y.\* (2026). *Psychonomic Bulletin & Review*  
 [Paper](https://doi.org/10.3758/s13423-026-02882-y)
+<a class="paper-download" href="/files/socialAttention_meta.pdf" target="_blank" rel="noopener">Download PDF</a>
 
 - A meta-analysis examining gaze cueing effects across the autism trait continuum.
 - **Role:** Contributed to study screening, data coding, and meta-analytic analysis; supported interpretation and manuscript preparation.
