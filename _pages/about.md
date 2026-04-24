@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='homepage'></span>
+<span class='anchor' id='Homepage'></span>
 
 I am an M.S. candidate in Developmental Psychopathology at East China Normal University, currently applying for PhD positions (2026/2027). My research focuses on developmental psychopathology and social cognition, with a particular interest in how children understand complex social signals such as irony and emotional expressions.
 
