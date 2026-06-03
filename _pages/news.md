@@ -27,18 +27,18 @@ author_profile: true
 # 📸 Moments
 <div class="gallery-container">
   <div class="gallery-item">
-    <img src="/assets/images/moments/defense_2026.jpg" alt="Master's Thesis Defense">
+    <img src="/images/moments/defense_2026.jpg" alt="Master's Thesis Defense">
     <p><strong>May 2026</strong>: Successfully defended my M.S. thesis at ECNU.</p>
   </div>
   
   <div class="gallery-item">
-    <img src="/assets/images/moments/lab_INSAR_2026.jpg" alt="Lab Group Photo">
+    <img src="/images/moments/lab_INSAR_2026.jpg" alt="Lab Group Photo">
     <p><strong>April 2026</strong>: INSAR moment with my research group at Nankai University.</p>
   </div>
 
   <div class="gallery-item">
-    <img src="/assets/images/moments/insar_2026_1.jpg" alt="INSAR 2026-1">
-    <img src="/assets/images/moments/insar_2026_2.jpg" alt="INSAR 2026-2">
+    <img src="/images/moments/insar_2026_1.jpg" alt="INSAR 2026-1">
+    <img src="/images/moments/insar_2026_2.jpg" alt="INSAR 2026-2">
     <p><strong>April 2026</strong>: Presenting research at INSAR 2026 in Prague.</p>
   </div>
 </div>
