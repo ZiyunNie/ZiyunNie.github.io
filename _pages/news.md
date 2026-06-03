@@ -16,7 +16,7 @@ author_profile: true
   I will be presenting on-site and would be happy to discuss this work with anyone interested.
   
   <p>
-  <a href="/files/poster_INSAR2026_PRRL.pdf" target="_blank" 
+  <a href="/files/posters/poster_INSAR2026_PRRL.pdf" target="_blank" 
      style="padding:8px 16px; background:#3b82f6; color:white; border-radius:6px; text-decoration:none;">
     📄 Download poster
   </a>
