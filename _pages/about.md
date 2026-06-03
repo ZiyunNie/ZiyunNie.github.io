@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='Homepage'></span>
 
-I am an M.S. candidate in Developmental Psychopathology at East China Normal University, currently applying for PhD positions (2026/2027). My research focuses on developmental psychopathology and social cognition, with a particular interest in how children understand complex social signals such as irony and emotional expressions.
+I am an M.S. candidate in Developmental Psychopathology at East China Normal University, currently applying for PhD positions (2027). My research focuses on developmental psychopathology and social cognition, with a particular interest in how children understand complex social signals such as emotional expressions.
 
 My work combines behavioral experiments with multimodal approaches, including eye-tracking and fNIRS hyperscanning, to investigate real-time social processing in interactive contexts. I am especially interested in individual variability in social cognition and its underlying cognitive and neural mechanisms.
 
@@ -50,6 +50,13 @@ Methodologically, I use computational modeling (e.g., drift-diffusion models, re
   🔢 Poster Board #: 18G  
 
   I will be presenting on-site and would be happy to discuss this work with anyone interested.
+  
+  <p>
+  <a href="/files/poster_INSAR2026_PRRL.pdf" target="_blank" 
+     style="padding:8px 16px; background:#3b82f6; color:white; border-radius:6px; text-decoration:none;">
+    📄 Download poster
+  </a>
+</p>
 
 ---
 

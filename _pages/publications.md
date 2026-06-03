@@ -21,6 +21,13 @@ Song, Y.\*, Nie, Z., & Shan, J. (2024). *Autism Research*
 - Examines how theory of mind and executive function contribute to irony comprehension in autistic children.
 - **Role:** Co-led the study; led data analysis and manuscript writing; coordinated revisions and publication process.
 
+
+**Beyond Theory of Mind: Language Processing as a Key Factor for Irony Comprehension in Autistic Children**  
+Nie, Z., Chen, Z., Wu, S., \& Song, Y.* (*In preparation*)
+
+- Uses eye-tracking and fNIRS hyperscanning to explore the mechanism of irony comprehension in autistic children.
+- **Role:** Designed and conducted both experiments and data analysis; led the manustript writing.
+
 </div>
 </div>
 
