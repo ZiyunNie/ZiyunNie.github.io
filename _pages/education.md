@@ -5,8 +5,8 @@ title: "Education"
 author_profile: true
 ---
 
-## 🎓 Education
-- **M.S. in Developmental Psychopathology**, East China Normal University (Expected June 2026)  
+# 🎓 Education
+- **M.S. in Developmental Psychopathology**, East China Normal University (2023-2026)  
   - Supervisor: Yongning Song
   - Thesis: Understanding Irony in Autistic Children: The Role of Theory of Mind and Language Processing with Multmodel Data
 - **B.S. in Psychology**, Nankai University (2019–2023)

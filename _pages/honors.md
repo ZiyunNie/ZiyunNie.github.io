@@ -5,7 +5,7 @@ title: "Honors & Awards"
 author_profile: true
 ---
 
-## 🎖 Honors & Awards
+# 🎖 Honors & Awards
 
 - **Outstanding Graduate**, East China Normal University, 2026  
 - **Top-Rated Abstract**, INSAR Annual Meeting, 2026  

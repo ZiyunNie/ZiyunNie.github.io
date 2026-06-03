@@ -5,8 +5,8 @@ title: "Projects"
 author_profile: true
 ---
 
-## 📃 Projects
-### Current Projects
+# 📃 Projects
+## Current Projects
 
 ### 🧠 Adaptive Learning in Autism (Computational Modeling)
 
@@ -36,7 +36,7 @@ This project examines single-person eye movements and brain-to-brain synchrony d
 
 ---
 
-### Previous Work
+## Previous Work
 
 ### 😐 Emotion Processing and Attentional Bias in High-AQ Individuals
 

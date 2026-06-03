@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 
-## 📝 Publications
+# 📝 Publications
 <div class='paper-box'>
 <div class='paper-box-image'>
-  <img src='/images/irony_paper.png' alt="paper">
+  <img src='/images/papers/irony_paper.png' alt="paper">
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -33,7 +33,7 @@ Song, Y.\*, **Nie, Z.**, & Shan, J. (2024). *Autism Research*
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-  <img src='/images/meta_analysis.png' alt="paper">
+  <img src='/images/papers/meta_analysis.png' alt="paper">
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,7 +50,7 @@ Chen, Z., **Nie, Z.**, Zhao, Y., & Song, Y.\* (2026). *Psychonomic Bulletin & Re
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-  <img src='/images/eyetracking_ml.png' alt="paper">
+  <img src='/images/papers/eyetracking_ml.png' alt="paper">
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,11 +65,11 @@ Chen, Z., **Nie, Z.**, Zhao, Y., & Song, Y.\* (2026). *Psychonomic Bulletin & Re
 ---
 
 
-## 📃 Posters
+# 📃 Posters
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-**[Poster] Multi-Task Paradigms in Eye-Tracking: Enhancing Diagnostic Social Attention Pattern Detection in Autism Spectrum Disorder via Machine Learning**  
+**Multi-Task Paradigms in Eye-Tracking: Enhancing Diagnostic Social Attention Pattern Detection in Autism Spectrum Disorder via Machine Learning**  
 Presented at *INSAR 2026 Annual Meeting*, Prague.
 [<a href="/files/posters/poster_INSAR2026_ML.pdf" target="_blank" rel="noopener">Poster PDF</a>]
 
@@ -88,7 +88,7 @@ Presented at *INSAR 2026 Annual Meeting*, Prague.
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-**[Poster] Adaptive Learning Challenges in Autism: Reduced Evidence Accumulation and Prior Belief Updating in Probabilistic Reversal Reward Learning**  
+**Adaptive Learning Challenges in Autism: Reduced Evidence Accumulation and Prior Belief Updating in Probabilistic Reversal Reward Learning**  
 Presented at *INSAR 2026 Annual Meeting*, Prague. (Top-Rated Abstract)
 [<a href="/files/posters/poster_INSAR2026_PRRL.pdf" target="_blank" rel="noopener">Poster PDF</a>]
 
