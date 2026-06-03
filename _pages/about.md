@@ -56,7 +56,7 @@ Methodologically, I use computational modeling (e.g., drift-diffusion models, re
      style="padding:8px 16px; background:#3b82f6; color:white; border-radius:6px; text-decoration:none;">
     📄 Download poster
   </a>
-</p>
+  </p>
 
 ---
 
