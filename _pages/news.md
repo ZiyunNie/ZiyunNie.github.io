@@ -28,12 +28,12 @@ author_profile: true
 <div class="gallery-container">
   <div class="gallery-item">
     <img src="/images/moments/defense_2026.jpg" alt="Master's Thesis Defense">
-    <p><strong>May 2026</strong>: Successfully defended my M.S. thesis at ECNU.</p>
+    <p><strong>May 2026</strong>: Successfully defended my M.S. thesis at ECNU!</p>
   </div>
   
   <div class="gallery-item">
     <img src="/images/moments/lab_INSAR_2026.jpg" alt="Lab Group Photo">
-    <p><strong>April 2026</strong>: INSAR moment with my research group at Nankai University.</p>
+    <p><strong>April 2026</strong>: INSAR moment with my research group at Nankai University. Long time no see!</p>
   </div>
 
 <div class="gallery-item">
