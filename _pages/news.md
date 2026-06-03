@@ -36,9 +36,11 @@ author_profile: true
     <p><strong>April 2026</strong>: INSAR moment with my research group at Nankai University.</p>
   </div>
 
-  <div class="gallery-item">
-    <img src="/images/moments/insar_2026_1.jpg" alt="INSAR 2026-1">
-    <img src="/images/moments/insar_2026_2.jpg" alt="INSAR 2026-2">
-    <p><strong>April 2026</strong>: Presenting research at INSAR 2026 in Prague.</p>
+<div class="gallery-item">
+  <!-- 图片组：将你想放在一起的照片都放这里 -->
+  <div class="image-group">
+    <img src="/images/moments/insar_2026_1.jpg" alt="Poster 1">
+    <img src="/images/moments/insar_2026_2.jpg" alt="Poster 2">
   </div>
+  <p><strong>April 2026</strong>: Presenting research at INSAR 2026 in Prague.</p>
 </div>
