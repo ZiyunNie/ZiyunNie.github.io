@@ -30,7 +30,7 @@ Methodologically, I use computational modeling (e.g., drift-diffusion models, re
 </p>
 
 ---
-## 🔍 I'm looking for a PhD position in Developmental Psychopathology & Social Cognition.
+### 🔍 I'm looking for a PhD position in Developmental Psychopathology & Social Cognition.
 
 ---
 
