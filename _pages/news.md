@@ -13,7 +13,7 @@ author_profile: true
     📍 The Hong Kong University of Science and Technology, Division of Social Science  
   
   
-    My upcoming research will focus on (1) children's cognitive offloading toward different agents (e.g., human vs. AI/technology), and (2) how different family roles (e.g., paternal vs. maternal) influence children's cognitive development.  
+    My upcoming research will focus on (1) children's cognitive offloading toward different agents (e.g., human vs. AI/robots), and (2) how different family roles (e.g., father's vs. mother's role) influence children's cognitive development.  
 
 ---
 
