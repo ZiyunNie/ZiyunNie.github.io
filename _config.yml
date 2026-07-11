@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ziyun Nie"
-description              : "M.S. in Developmental Psychopathology at ECNU, focusing on autism spectrum disorder and social cognition. Using eye-tracking, fNIRS, and computational modeling to study social information processing."
+description              : "Research Assistant at HKUST | M.S. (East China Normal University) & B.S. (Nankai University) | Social cognition; eye-tracking, fNIRS, computational modeling"
 repository               : "ziyunnie/ziyunnie.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ziyun Nie"
   avatar           : "/images/Liz.png"
-  bio              : "East China Normal University"
-  location         : "Shanghai, China"
+  bio              :
+  location         : "Hong Kong, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=f0elZAYAAAAJ&hl=zh-CN"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ziyun-nie-a12606369/"
+  linkedin         : #"https://www.linkedin.com/in/ziyun-nie-a12606369/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
