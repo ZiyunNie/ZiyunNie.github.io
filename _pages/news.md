@@ -8,12 +8,12 @@ author_profile: true
 # 🔥 News    
 - *August 2026* | **Hong Kong RA – HKUST, Division of Social Science**
 
- 🔬 Starting as a Research Assistant under the supervision of [Prof. Chen Cheng](https://sosc.hkust.edu.hk/people/chen-cheng) and [Prof. Jingyi Wang](https://sosc.hkust.edu.hk/people/jingyi-wang).  
-  🗓️ Starting August 2026  
-  📍 The Hong Kong University of Science and Technology, Division of Social Science  
+   🔬 Starting as a Research Assistant under the supervision of [Prof. Chen Cheng](https://sosc.hkust.edu.hk/people/chen-cheng) and [Prof. Jingyi Wang](https://sosc.hkust.edu.hk/people/jingyi-wang).  
+    🗓️ Starting August 2026  
+    📍 The Hong Kong University of Science and Technology, Division of Social Science  
   
   
-  My upcoming research will focus on (1) children's cognitive offloading toward different agents (e.g., human vs. AI/technology), and (2) how different family roles (e.g., paternal vs. maternal) influence children's cognitive development.  
+    My upcoming research will focus on (1) children's cognitive offloading toward different agents (e.g., human vs. AI/technology), and (2) how different family roles (e.g., paternal vs. maternal) influence children's cognitive development.  
 
 ---
 
